@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="gb2312"?>
-<CSysSerialize xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <m_sImageSavePath>E:\Basic Template\MainFrame\MainFrame\bin\Debug\ImageData</m_sImageSavePath>
-  <m_iDeleteImageTime>1</m_iDeleteImageTime>
-  <m_bIsSaveOKImage>false</m_bIsSaveOKImage>
-  <m_iSysMode>1</m_iSysMode>
-  <m_sFileSavePath>E:\Basic Template\MainFrame\MainFrame\bin\Debug\ResultData</m_sFileSavePath>
-</CSysSerialize>
