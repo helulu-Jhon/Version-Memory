@@ -588,6 +588,12 @@ namespace MainFrame
                     return;
                 }
 
+                if (m_hv_AcqHandle.Length <= 0)
+                {
+                    MessageBox.Show("相机没有连接A!");
+                    return;
+                }
+
                 m_ho_Image.Dispose();
                 HOperatorSet.GrabImage(out m_ho_Image, m_hv_AcqHandle);
                 if (m_hv_Row1.Length == 0)
