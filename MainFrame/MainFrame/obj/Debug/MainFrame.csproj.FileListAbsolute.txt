@@ -1,0 +1,17 @@
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\MainFrame.exe.config
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\MainFrame.exe
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\MainFrame.pdb
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\DMSkin.dll
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\halcondotnet.dll
+E:\Basic Template\MainFrame\MainFrame\bin\Debug\halcondotnet.xml
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\ResolveAssemblyReference.cache
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.CCamParam.resources
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.CMeasure.resources
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.CMainFrame.resources
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.Properties.Resources.resources
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\GenerateResource.read.1.tlog
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\GenerateResource.write.1.tlog
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.exe
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.pdb
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.SetUser.resources
+E:\Basic Template\MainFrame\MainFrame\obj\Debug\MainFrame.CSetSys.resources

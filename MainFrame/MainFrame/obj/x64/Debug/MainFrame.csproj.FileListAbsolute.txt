@@ -1,0 +1,15 @@
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\MainFrame.exe.config
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\MainFrame.exe
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\MainFrame.pdb
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\DMSkin.dll
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\halcondotnet.dll
+E:\Basic Template\MainFrame\MainFrame\bin\x64\Debug\halcondotnet.xml
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\ResolveAssemblyReference.cache
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.CMeasure.resources
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.CMainFrame.resources
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.Properties.Resources.resources
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\GenerateResource.read.1.tlog
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\GenerateResource.write.1.tlog
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.exe
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.pdb
+E:\Basic Template\MainFrame\MainFrame\obj\x64\Debug\MainFrame.CCamParam.resources
